@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628331256752",
+    "firebase_url": "https://amei-baf7f.firebaseio.com",
+    "project_id": "amei-baf7f",
+    "storage_bucket": "amei-baf7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628331256752:android:72e359ec2d5e6f2f",
+        "android_client_info": {
+          "package_name": "com.example.ad_catalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628331256752-ed30r09nd5dfjkvr1spsaflc050bl9ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnYDrT6BUCfF8YVHxQYPKpx3QJGQDjGHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628331256752-ed30r09nd5dfjkvr1spsaflc050bl9ei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628331256752-cqp9qqai2v6el1t7d0kadptlcuhomukr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AndrePessanha.aMEI"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
